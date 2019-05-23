@@ -13,18 +13,20 @@ h3 {
 
 h1 {
   font-weight: 700;
-  font-size: 2vw;
+  font-size: calc(14px + (66 - 14) * ((100vw - 300px) / (1600 - 300)));
+  color: #070439;
 }
 
 h3 {
   font-weight: 400;
-  font-size: 1vw;
+  font-size: calc(14px + (46 - 14) * ((100vw - 300px) / (1600 - 300)));
+  color: #070439;
 }
 
 p {
   font-family: "Open Sans", sans-serif;
-  font-size: 0.9vw;
-  color: LightGray;
+  font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  color: gray;
 }
 
 /*# sourceMappingURL=main.css.map */
