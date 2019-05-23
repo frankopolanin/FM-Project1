@@ -1,0 +1,30 @@
+#grad {
+  background-image: linear-gradient(to bottom left, #070439, #bbb8fa);
+}
+
+body {
+  width: 1440px;
+}
+
+h1,
+h3 {
+  font-family: "Raleway", sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 2vw;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 1vw;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.9vw;
+  color: LightGray;
+}
+
+/*# sourceMappingURL=main.css.map */
